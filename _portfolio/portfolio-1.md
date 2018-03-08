@@ -4,4 +4,4 @@ excerpt: "Groundhog and Hammer Live a happy life together everafter.<br/><img sr
 collection: portfolio
 ---
 <br/><img src='/images/art1.png'>"
-hahahah
+
