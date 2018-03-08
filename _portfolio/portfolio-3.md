@@ -6,3 +6,6 @@ collection: portfolio
 
 excerpt: "That's why you get fat.<br/><img src='/portfolio/images/art4.jpg'>"
 collection: portfolio
+```html
+dygraph(nhtemp, main = "New Haven Temperatures", ylab = "Temp (F)") 
+```
